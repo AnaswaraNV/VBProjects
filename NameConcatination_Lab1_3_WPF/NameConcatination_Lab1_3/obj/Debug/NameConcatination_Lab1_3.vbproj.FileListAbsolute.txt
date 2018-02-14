@@ -1,0 +1,17 @@
+C:\Users\Anaswara\source\repos\NameConcatination_Lab1_3\NameConcatination_Lab1_3\bin\Debug\NameConcatination_Lab1_3.exe.config
+C:\Users\Anaswara\source\repos\NameConcatination_Lab1_3\NameConcatination_Lab1_3\bin\Debug\NameConcatination_Lab1_3.exe
+C:\Users\Anaswara\source\repos\NameConcatination_Lab1_3\NameConcatination_Lab1_3\bin\Debug\NameConcatination_Lab1_3.pdb
+C:\Users\Anaswara\source\repos\NameConcatination_Lab1_3\NameConcatination_Lab1_3\bin\Debug\NameConcatination_Lab1_3.xml
+C:\Users\Anaswara\source\repos\NameConcatination_Lab1_3\NameConcatination_Lab1_3\obj\Debug\NameConcatination_Lab1_3.vbprojResolveAssemblyReference.cache
+C:\Users\Anaswara\source\repos\NameConcatination_Lab1_3\NameConcatination_Lab1_3\obj\Debug\MainWindow.g.vb
+C:\Users\Anaswara\source\repos\NameConcatination_Lab1_3\NameConcatination_Lab1_3\obj\Debug\Application.g.vb
+C:\Users\Anaswara\source\repos\NameConcatination_Lab1_3\NameConcatination_Lab1_3\obj\Debug\NameConcatination_Lab1_3_MarkupCompile.cache
+C:\Users\Anaswara\source\repos\NameConcatination_Lab1_3\NameConcatination_Lab1_3\obj\Debug\NameConcatination_Lab1_3_MarkupCompile.lref
+C:\Users\Anaswara\source\repos\NameConcatination_Lab1_3\NameConcatination_Lab1_3\obj\Debug\MainWindow.baml
+C:\Users\Anaswara\source\repos\NameConcatination_Lab1_3\NameConcatination_Lab1_3\obj\Debug\NameConcatination_Lab1_3.g.resources
+C:\Users\Anaswara\source\repos\NameConcatination_Lab1_3\NameConcatination_Lab1_3\obj\Debug\NameConcatination_Lab1_3.Resources.resources
+C:\Users\Anaswara\source\repos\NameConcatination_Lab1_3\NameConcatination_Lab1_3\obj\Debug\NameConcatination_Lab1_3.vbproj.GenerateResource.Cache
+C:\Users\Anaswara\source\repos\NameConcatination_Lab1_3\NameConcatination_Lab1_3\obj\Debug\NameConcatination_Lab1_3.vbproj.CoreCompileInputs.cache
+C:\Users\Anaswara\source\repos\NameConcatination_Lab1_3\NameConcatination_Lab1_3\obj\Debug\NameConcatination_Lab1_3.exe
+C:\Users\Anaswara\source\repos\NameConcatination_Lab1_3\NameConcatination_Lab1_3\obj\Debug\NameConcatination_Lab1_3.xml
+C:\Users\Anaswara\source\repos\NameConcatination_Lab1_3\NameConcatination_Lab1_3\obj\Debug\NameConcatination_Lab1_3.pdb

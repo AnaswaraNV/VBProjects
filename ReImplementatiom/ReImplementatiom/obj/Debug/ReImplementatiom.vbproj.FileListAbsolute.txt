@@ -1,0 +1,11 @@
+C:\Users\Anaswara\source\repos\ReImplementatiom\ReImplementatiom\bin\Debug\ReImplementatiom.exe.config
+C:\Users\Anaswara\source\repos\ReImplementatiom\ReImplementatiom\bin\Debug\ReImplementatiom.exe
+C:\Users\Anaswara\source\repos\ReImplementatiom\ReImplementatiom\bin\Debug\ReImplementatiom.pdb
+C:\Users\Anaswara\source\repos\ReImplementatiom\ReImplementatiom\bin\Debug\ReImplementatiom.xml
+C:\Users\Anaswara\source\repos\ReImplementatiom\ReImplementatiom\obj\Debug\ReImplementatiom.vbprojResolveAssemblyReference.cache
+C:\Users\Anaswara\source\repos\ReImplementatiom\ReImplementatiom\obj\Debug\ReImplementatiom.Resources.resources
+C:\Users\Anaswara\source\repos\ReImplementatiom\ReImplementatiom\obj\Debug\ReImplementatiom.vbproj.GenerateResource.Cache
+C:\Users\Anaswara\source\repos\ReImplementatiom\ReImplementatiom\obj\Debug\ReImplementatiom.vbproj.CoreCompileInputs.cache
+C:\Users\Anaswara\source\repos\ReImplementatiom\ReImplementatiom\obj\Debug\ReImplementatiom.exe
+C:\Users\Anaswara\source\repos\ReImplementatiom\ReImplementatiom\obj\Debug\ReImplementatiom.xml
+C:\Users\Anaswara\source\repos\ReImplementatiom\ReImplementatiom\obj\Debug\ReImplementatiom.pdb

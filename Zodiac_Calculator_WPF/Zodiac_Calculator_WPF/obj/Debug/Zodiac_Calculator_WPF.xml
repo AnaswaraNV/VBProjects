@@ -1,0 +1,103 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Zodiac_Calculator_WPF
+</name>
+</assembly>
+<members>
+<member name="T:Zodiac_Calculator_WPF.My.MyWpfExtension">
+ <summary>
+ Module used to define the properties that are available in the My Namespace for WPF
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:Zodiac_Calculator_WPF.My.MyWpfExtension.Application">
+ <summary>
+ Returns the application object for the running application
+ </summary>
+</member>
+<member name="P:Zodiac_Calculator_WPF.My.MyWpfExtension.Computer">
+ <summary>
+ Returns information about the host computer.
+ </summary>
+</member>
+<member name="P:Zodiac_Calculator_WPF.My.MyWpfExtension.User">
+ <summary>
+ Returns information for the current user.  If you wish to run the application with the current 
+ Windows user credentials, call My.User.InitializeWithWindowsUser().
+ </summary>
+</member>
+<member name="P:Zodiac_Calculator_WPF.My.MyWpfExtension.Log">
+ <summary>
+ Returns the application log. The listeners can be configured by the application's configuration file.
+ </summary>
+</member>
+<member name="P:Zodiac_Calculator_WPF.My.MyWpfExtension.Windows">
+ <summary>
+ Returns the collection of Windows defined in the project.
+ </summary>
+</member>
+<member name="T:Zodiac_Calculator_WPF.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Zodiac_Calculator_WPF.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Zodiac_Calculator_WPF.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Zodiac_Calculator_WPF.My.Resources.Resources.calculate">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="M:Zodiac_Calculator_WPF.ZodiacResult.yearConvertionArray">
+ <summary>
+ Implementing array concept
+ </summary>
+ <returns></returns>
+</member>
+<member name="T:Zodiac_Calculator_WPF.Application">
+<summary>
+Application
+</summary>
+</member>
+<member name="M:Zodiac_Calculator_WPF.Application.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="M:Zodiac_Calculator_WPF.Application.Main">
+<summary>
+Application Entry Point.
+</summary>
+</member>
+<member name="T:Zodiac_Calculator_WPF.MainWindow">
+<summary>
+MainWindow
+</summary>
+</member>
+<member name="M:Zodiac_Calculator_WPF.MainWindow.readYear">
+ <summary>
+ Function to read yesr from user and display appropriate image 
+ It also validates the user input, if it is an year 
+ If not shows an error that it is not valid year
+ If valid year calls the calculator object and display the appropriate image
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Zodiac_Calculator_WPF.MainWindow.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ReImplementatiom
+</name>
+</assembly>
+<members>
+<member name="T:ReImplementatiom.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:ReImplementatiom.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:ReImplementatiom.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:ReImplementatiom.Module1.displayMenu">
+ <summary>
+ Displaying menu to user and returning the question number
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:ReImplementatiom.SupportClass.Lab1_4.#ctor">
+ <summary>
+ Read subject array 
+ If the status returned is true , read grade array
+ If status is true dispaly all details to user
+ </summary>
+</member>
+<member name="M:ReImplementatiom.SupportClass.Lab1_4.readSubjectArray">
+ <summary>
+ Read subject array and return status of execution
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:ReImplementatiom.SupportClass.Lab1_4.readGradeArray">
+ <summary>
+ Reead grade array and return status of execution
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:ReImplementatiom.SupportClass.Lab1_4.displayDetails">
+ <summary>
+ Display details of student subject , grade and cumulative GPA
+ </summary>
+</member>
+<member name="M:ReImplementatiom.SupportClass.Lab1_5.#ctor">
+ <summary>
+ Reding the name from user and display in the specific format
+ </summary>
+</member>
+</members>
+</doc>

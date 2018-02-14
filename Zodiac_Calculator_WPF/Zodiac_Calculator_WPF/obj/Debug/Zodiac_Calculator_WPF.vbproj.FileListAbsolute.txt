@@ -1,0 +1,36 @@
+C:\Users\Anaswara\source\repos\Zodiac_Calculator_WPF\Zodiac_Calculator_WPF\obj\Debug\Zodiac_Calculator_WPF.vbprojResolveAssemblyReference.cache
+C:\Users\Anaswara\source\repos\Zodiac_Calculator_WPF\Zodiac_Calculator_WPF\obj\Debug\MainWindow.g.vb
+C:\Users\Anaswara\source\repos\Zodiac_Calculator_WPF\Zodiac_Calculator_WPF\obj\Debug\Application.g.vb
+C:\Users\Anaswara\source\repos\Zodiac_Calculator_WPF\Zodiac_Calculator_WPF\obj\Debug\Zodiac_Calculator_WPF_MarkupCompile.cache
+C:\Users\Anaswara\source\repos\Zodiac_Calculator_WPF\Zodiac_Calculator_WPF\obj\Debug\Zodiac_Calculator_WPF_MarkupCompile.lref
+C:\Users\Anaswara\source\repos\Zodiac_Calculator_WPF\Zodiac_Calculator_WPF\bin\Debug\Zodiac_Calculator_WPF.exe.config
+C:\Users\Anaswara\source\repos\Zodiac_Calculator_WPF\Zodiac_Calculator_WPF\bin\Debug\Zodiac_Calculator_WPF.exe
+C:\Users\Anaswara\source\repos\Zodiac_Calculator_WPF\Zodiac_Calculator_WPF\bin\Debug\Zodiac_Calculator_WPF.pdb
+C:\Users\Anaswara\source\repos\Zodiac_Calculator_WPF\Zodiac_Calculator_WPF\bin\Debug\Zodiac_Calculator_WPF.xml
+C:\Users\Anaswara\source\repos\Zodiac_Calculator_WPF\Zodiac_Calculator_WPF\bin\Debug\ChineseZodiacClassLibrary.dll
+C:\Users\Anaswara\source\repos\Zodiac_Calculator_WPF\Zodiac_Calculator_WPF\bin\Debug\ChineseZodiacClassLibraryCSharp.dll
+C:\Users\Anaswara\source\repos\Zodiac_Calculator_WPF\Zodiac_Calculator_WPF\obj\Debug\MainWindow.baml
+C:\Users\Anaswara\source\repos\Zodiac_Calculator_WPF\Zodiac_Calculator_WPF\obj\Debug\Zodiac_Calculator_WPF.g.resources
+C:\Users\Anaswara\source\repos\Zodiac_Calculator_WPF\Zodiac_Calculator_WPF\obj\Debug\Zodiac_Calculator_WPF.Resources.resources
+C:\Users\Anaswara\source\repos\Zodiac_Calculator_WPF\Zodiac_Calculator_WPF\obj\Debug\Zodiac_Calculator_WPF.vbproj.GenerateResource.Cache
+C:\Users\Anaswara\source\repos\Zodiac_Calculator_WPF\Zodiac_Calculator_WPF\obj\Debug\Zodiac_Calculator_WPF.vbproj.CoreCompileInputs.cache
+C:\Users\Anaswara\source\repos\Zodiac_Calculator_WPF\Zodiac_Calculator_WPF\obj\Debug\Zodiac_Calculator_WPF.exe
+C:\Users\Anaswara\source\repos\Zodiac_Calculator_WPF\Zodiac_Calculator_WPF\obj\Debug\Zodiac_Calculator_WPF.xml
+C:\Users\Anaswara\source\repos\Zodiac_Calculator_WPF\Zodiac_Calculator_WPF\obj\Debug\Zodiac_Calculator_WPF.pdb
+C:\Users\Anaswara\source\repos\Week 3 Lab _Combined\Zodiac_Calculator_WPF\Zodiac_Calculator_WPF\bin\Debug\Zodiac_Calculator_WPF.exe.config
+C:\Users\Anaswara\source\repos\Week 3 Lab _Combined\Zodiac_Calculator_WPF\Zodiac_Calculator_WPF\bin\Debug\Zodiac_Calculator_WPF.exe
+C:\Users\Anaswara\source\repos\Week 3 Lab _Combined\Zodiac_Calculator_WPF\Zodiac_Calculator_WPF\bin\Debug\Zodiac_Calculator_WPF.pdb
+C:\Users\Anaswara\source\repos\Week 3 Lab _Combined\Zodiac_Calculator_WPF\Zodiac_Calculator_WPF\bin\Debug\Zodiac_Calculator_WPF.xml
+C:\Users\Anaswara\source\repos\Week 3 Lab _Combined\Zodiac_Calculator_WPF\Zodiac_Calculator_WPF\obj\Debug\Zodiac_Calculator_WPF.vbprojResolveAssemblyReference.cache
+C:\Users\Anaswara\source\repos\Week 3 Lab _Combined\Zodiac_Calculator_WPF\Zodiac_Calculator_WPF\obj\Debug\MainWindow.g.vb
+C:\Users\Anaswara\source\repos\Week 3 Lab _Combined\Zodiac_Calculator_WPF\Zodiac_Calculator_WPF\obj\Debug\Application.g.vb
+C:\Users\Anaswara\source\repos\Week 3 Lab _Combined\Zodiac_Calculator_WPF\Zodiac_Calculator_WPF\obj\Debug\Zodiac_Calculator_WPF_MarkupCompile.cache
+C:\Users\Anaswara\source\repos\Week 3 Lab _Combined\Zodiac_Calculator_WPF\Zodiac_Calculator_WPF\obj\Debug\Zodiac_Calculator_WPF_MarkupCompile.lref
+C:\Users\Anaswara\source\repos\Week 3 Lab _Combined\Zodiac_Calculator_WPF\Zodiac_Calculator_WPF\obj\Debug\MainWindow.baml
+C:\Users\Anaswara\source\repos\Week 3 Lab _Combined\Zodiac_Calculator_WPF\Zodiac_Calculator_WPF\obj\Debug\Zodiac_Calculator_WPF.g.resources
+C:\Users\Anaswara\source\repos\Week 3 Lab _Combined\Zodiac_Calculator_WPF\Zodiac_Calculator_WPF\obj\Debug\Zodiac_Calculator_WPF.Resources.resources
+C:\Users\Anaswara\source\repos\Week 3 Lab _Combined\Zodiac_Calculator_WPF\Zodiac_Calculator_WPF\obj\Debug\Zodiac_Calculator_WPF.vbproj.GenerateResource.Cache
+C:\Users\Anaswara\source\repos\Week 3 Lab _Combined\Zodiac_Calculator_WPF\Zodiac_Calculator_WPF\obj\Debug\Zodiac_Calculator_WPF.vbproj.CoreCompileInputs.cache
+C:\Users\Anaswara\source\repos\Week 3 Lab _Combined\Zodiac_Calculator_WPF\Zodiac_Calculator_WPF\obj\Debug\Zodiac_Calculator_WPF.exe
+C:\Users\Anaswara\source\repos\Week 3 Lab _Combined\Zodiac_Calculator_WPF\Zodiac_Calculator_WPF\obj\Debug\Zodiac_Calculator_WPF.xml
+C:\Users\Anaswara\source\repos\Week 3 Lab _Combined\Zodiac_Calculator_WPF\Zodiac_Calculator_WPF\obj\Debug\Zodiac_Calculator_WPF.pdb
