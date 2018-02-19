@@ -1,0 +1,22 @@
+C:\Users\Anaswara\source\repos\Week2\Lab 1-1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Anaswara\source\repos\Week2\Lab 1-1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Anaswara\source\repos\Week2\Lab 1-1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Anaswara\source\repos\Week2\Lab 1-1\ConsoleApp1\bin\Debug\ConsoleApp1.xml
+C:\Users\Anaswara\source\repos\Week2\Lab 1-1\ConsoleApp1\obj\Debug\Lab 1-1.vbprojResolveAssemblyReference.cache
+C:\Users\Anaswara\source\repos\Week2\Lab 1-1\ConsoleApp1\obj\Debug\ConsoleApp1.Resources.resources
+C:\Users\Anaswara\source\repos\Week2\Lab 1-1\ConsoleApp1\obj\Debug\Lab 1-1.vbproj.GenerateResource.Cache
+C:\Users\Anaswara\source\repos\Week2\Lab 1-1\ConsoleApp1\obj\Debug\Lab 1-1.vbproj.CoreCompileInputs.cache
+C:\Users\Anaswara\source\repos\Week2\Lab 1-1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Anaswara\source\repos\Week2\Lab 1-1\ConsoleApp1\obj\Debug\ConsoleApp1.xml
+C:\Users\Anaswara\source\repos\Week2\Lab 1-1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Anaswara\source\repos\anaderi-vadakkeperat_week2\Lab 1-1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Anaswara\source\repos\anaderi-vadakkeperat_week2\Lab 1-1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Anaswara\source\repos\anaderi-vadakkeperat_week2\Lab 1-1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Anaswara\source\repos\anaderi-vadakkeperat_week2\Lab 1-1\ConsoleApp1\bin\Debug\ConsoleApp1.xml
+C:\Users\Anaswara\source\repos\anaderi-vadakkeperat_week2\Lab 1-1\ConsoleApp1\obj\Debug\Lab 1-1.vbprojResolveAssemblyReference.cache
+C:\Users\Anaswara\source\repos\anaderi-vadakkeperat_week2\Lab 1-1\ConsoleApp1\obj\Debug\ConsoleApp1.Resources.resources
+C:\Users\Anaswara\source\repos\anaderi-vadakkeperat_week2\Lab 1-1\ConsoleApp1\obj\Debug\Lab 1-1.vbproj.GenerateResource.Cache
+C:\Users\Anaswara\source\repos\anaderi-vadakkeperat_week2\Lab 1-1\ConsoleApp1\obj\Debug\Lab 1-1.vbproj.CoreCompileInputs.cache
+C:\Users\Anaswara\source\repos\anaderi-vadakkeperat_week2\Lab 1-1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Anaswara\source\repos\anaderi-vadakkeperat_week2\Lab 1-1\ConsoleApp1\obj\Debug\ConsoleApp1.xml
+C:\Users\Anaswara\source\repos\anaderi-vadakkeperat_week2\Lab 1-1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

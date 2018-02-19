@@ -1,0 +1,123 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ImplementTempConversion
+</name>
+</assembly>
+<members>
+<member name="T:ImplementTempConversion.My.MyWpfExtension">
+ <summary>
+ Module used to define the properties that are available in the My Namespace for WPF
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:ImplementTempConversion.My.MyWpfExtension.Application">
+ <summary>
+ Returns the application object for the running application
+ </summary>
+</member>
+<member name="P:ImplementTempConversion.My.MyWpfExtension.Computer">
+ <summary>
+ Returns information about the host computer.
+ </summary>
+</member>
+<member name="P:ImplementTempConversion.My.MyWpfExtension.User">
+ <summary>
+ Returns information for the current user.  If you wish to run the application with the current 
+ Windows user credentials, call My.User.InitializeWithWindowsUser().
+ </summary>
+</member>
+<member name="P:ImplementTempConversion.My.MyWpfExtension.Log">
+ <summary>
+ Returns the application log. The listeners can be configured by the application's configuration file.
+ </summary>
+</member>
+<member name="P:ImplementTempConversion.My.MyWpfExtension.Windows">
+ <summary>
+ Returns the collection of Windows defined in the project.
+ </summary>
+</member>
+<member name="T:ImplementTempConversion.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:ImplementTempConversion.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:ImplementTempConversion.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:ImplementTempConversion.My.Resources.Resources.BackgroundImg">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:ImplementTempConversion.Application">
+<summary>
+Application
+</summary>
+</member>
+<member name="M:ImplementTempConversion.Application.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="M:ImplementTempConversion.Application.Main">
+<summary>
+Application Entry Point.
+</summary>
+</member>
+<member name="T:ImplementTempConversion.MainWindow">
+<summary>
+MainWindow
+</summary>
+</member>
+<member name="M:ImplementTempConversion.MainWindow.MainWindow_Loaded(System.Object,System.Windows.RoutedEventArgs)">
+ <summary>
+ Define window load functionalities
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:ImplementTempConversion.MainWindow.FtoCRadio_Checked(System.Object,System.Windows.RoutedEventArgs)">
+ <summary>
+ When radio button is checked, input box is cleared
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:ImplementTempConversion.MainWindow.CToFRadio_Checked(System.Object,System.Windows.RoutedEventArgs)">
+ <summary>
+ When radio button is checked, input box is cleared
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:ImplementTempConversion.MainWindow.TextboxInput_TextChanged(System.Object,System.Windows.Controls.TextChangedEventArgs)">
+ <summary>
+ Calling temperature changed function when input textbox value is changed
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:ImplementTempConversion.MainWindow.CheckForValidity(System.String)">
+ <summary>
+ Checking for validity in input box.If the user entered a string it will show a message 
+ to enter a valid value
+ </summary>
+ <param name="value"></param>
+</member>
+<member name="M:ImplementTempConversion.MainWindow.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+</members>
+</doc>

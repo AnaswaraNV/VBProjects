@@ -1,0 +1,151 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AlbumDisplay
+</name>
+</assembly>
+<members>
+<member name="T:AlbumDisplay.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:AlbumDisplay.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:AlbumDisplay.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:AlbumDisplay.My.Resources.Resources.OwlCityFireflies">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="T:AlbumDisplay.My.MyWpfExtension">
+ <summary>
+ Module used to define the properties that are available in the My Namespace for WPF
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:AlbumDisplay.My.MyWpfExtension.Application">
+ <summary>
+ Returns the application object for the running application
+ </summary>
+</member>
+<member name="P:AlbumDisplay.My.MyWpfExtension.Computer">
+ <summary>
+ Returns information about the host computer.
+ </summary>
+</member>
+<member name="P:AlbumDisplay.My.MyWpfExtension.User">
+ <summary>
+ Returns information for the current user.  If you wish to run the application with the current 
+ Windows user credentials, call My.User.InitializeWithWindowsUser().
+ </summary>
+</member>
+<member name="P:AlbumDisplay.My.MyWpfExtension.Log">
+ <summary>
+ Returns the application log. The listeners can be configured by the application's configuration file.
+ </summary>
+</member>
+<member name="P:AlbumDisplay.My.MyWpfExtension.Windows">
+ <summary>
+ Returns the collection of Windows defined in the project.
+ </summary>
+</member>
+<member name="M:AlbumDisplay.SupportClass.Album.getReleaseDate">
+ <summary>
+ Date type is : 01/01/2000
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:AlbumDisplay.SupportClass.Album.setsongList(AlbumDisplay.SupportClass.Songs)">
+ <summary>
+ Setter of song array
+ </summary>
+ <param name="songObj"></param>
+</member>
+<member name="M:AlbumDisplay.SupportClass.AppData.setAlbumObj(AlbumDisplay.SupportClass.Album)">
+ <summary>
+ setter of album object
+ </summary>
+ <param name="albumObj"></param>
+</member>
+<member name="T:AlbumDisplay.SongEntryWindow">
+<summary>
+SongEntryWindow
+</summary>
+</member>
+<member name="M:AlbumDisplay.SongEntryWindow.ConinueButton_Click(System.Object,System.Windows.RoutedEventArgs)">
+ <summary>
+ Continue to enter song details
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:AlbumDisplay.SongEntryWindow.FinishButton_Click(System.Object,System.Windows.RoutedEventArgs)">
+ <summary>
+ If finish button is pressed a summary page appears
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:AlbumDisplay.SongEntryWindow.UpdateSongObject">
+ <summary>
+ Updating song object
+ </summary>
+</member>
+<member name="M:AlbumDisplay.SongEntryWindow.setTextBoxValues(AlbumDisplay.finishWindow)">
+ <summary>
+ Set the text box values for song deatils
+ </summary>
+ <param name="finishWindowOb"></param>
+</member>
+<member name="M:AlbumDisplay.SongEntryWindow.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:AlbumDisplay.Application">
+<summary>
+Application
+</summary>
+</member>
+<member name="M:AlbumDisplay.Application.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="M:AlbumDisplay.Application.Main">
+<summary>
+Application Entry Point.
+</summary>
+</member>
+<member name="T:AlbumDisplay.MainWindow">
+<summary>
+MainWindow
+</summary>
+</member>
+<member name="M:AlbumDisplay.MainWindow.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:AlbumDisplay.finishWindow">
+<summary>
+finishWindow
+</summary>
+</member>
+<member name="M:AlbumDisplay.finishWindow.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+</members>
+</doc>

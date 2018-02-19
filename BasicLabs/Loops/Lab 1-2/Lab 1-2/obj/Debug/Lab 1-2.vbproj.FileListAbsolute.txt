@@ -1,0 +1,11 @@
+c:\users\anaswara\source\repos\Lab 1-2\Lab 1-2\bin\Debug\Lab 1-2.exe.config
+c:\users\anaswara\source\repos\Lab 1-2\Lab 1-2\bin\Debug\Lab 1-2.exe
+c:\users\anaswara\source\repos\Lab 1-2\Lab 1-2\bin\Debug\Lab 1-2.pdb
+c:\users\anaswara\source\repos\Lab 1-2\Lab 1-2\bin\Debug\Lab 1-2.xml
+c:\users\anaswara\source\repos\Lab 1-2\Lab 1-2\obj\Debug\Lab 1-2.vbprojResolveAssemblyReference.cache
+c:\users\anaswara\source\repos\Lab 1-2\Lab 1-2\obj\Debug\Lab_1_2.Resources.resources
+c:\users\anaswara\source\repos\Lab 1-2\Lab 1-2\obj\Debug\Lab 1-2.vbproj.GenerateResource.Cache
+c:\users\anaswara\source\repos\Lab 1-2\Lab 1-2\obj\Debug\Lab 1-2.vbproj.CoreCompileInputs.cache
+c:\users\anaswara\source\repos\Lab 1-2\Lab 1-2\obj\Debug\Lab 1-2.exe
+c:\users\anaswara\source\repos\Lab 1-2\Lab 1-2\obj\Debug\Lab 1-2.xml
+c:\users\anaswara\source\repos\Lab 1-2\Lab 1-2\obj\Debug\Lab 1-2.pdb
