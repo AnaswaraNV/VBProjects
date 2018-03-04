@@ -1,0 +1,207 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+HashFunction
+</name>
+</assembly>
+<members>
+<member name="T:HashFunction.My.MyWpfExtension">
+ <summary>
+ Module used to define the properties that are available in the My Namespace for WPF
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:HashFunction.My.MyWpfExtension.Application">
+ <summary>
+ Returns the application object for the running application
+ </summary>
+</member>
+<member name="P:HashFunction.My.MyWpfExtension.Computer">
+ <summary>
+ Returns information about the host computer.
+ </summary>
+</member>
+<member name="P:HashFunction.My.MyWpfExtension.User">
+ <summary>
+ Returns information for the current user.  If you wish to run the application with the current 
+ Windows user credentials, call My.User.InitializeWithWindowsUser().
+ </summary>
+</member>
+<member name="P:HashFunction.My.MyWpfExtension.Log">
+ <summary>
+ Returns the application log. The listeners can be configured by the application's configuration file.
+ </summary>
+</member>
+<member name="P:HashFunction.My.MyWpfExtension.Windows">
+ <summary>
+ Returns the collection of Windows defined in the project.
+ </summary>
+</member>
+<member name="T:HashFunction.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:HashFunction.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:HashFunction.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:HashFunction.My.Resources.Resources.CloseSolution_16x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HashFunction.My.Resources.Resources.DeleteWatch_16x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HashFunction.My.Resources.Resources.EditWindow_16x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HashFunction.My.Resources.Resources.inventory">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HashFunction.My.Resources.Resources.NewFile_16x_24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HashFunction.My.Resources.Resources.NewFileCollection_16x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HashFunction.My.Resources.Resources.OpenFile_16x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HashFunction.My.Resources.Resources.Search_16x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:HashFunction.DeleteWindow">
+<summary>
+DeleteWindow
+</summary>
+</member>
+<member name="M:HashFunction.DeleteWindow.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:HashFunction.DisplayWindow">
+<summary>
+DisplayWindow
+</summary>
+</member>
+<member name="M:HashFunction.DisplayWindow.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:HashFunction.EditWindow">
+<summary>
+EditWindow
+</summary>
+</member>
+<member name="M:HashFunction.EditWindow.submitButton_Click(System.Object,System.Windows.RoutedEventArgs)">
+ <summary>
+ check if user exist, if yes check for validity and update the user
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:HashFunction.EditWindow.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:HashFunction.EditWindow1">
+<summary>
+EditWindow1
+</summary>
+</member>
+<member name="M:HashFunction.EditWindow1.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:HashFunction.RegistrationForm">
+<summary>
+RegistrationForm
+</summary>
+</member>
+<member name="M:HashFunction.RegistrationForm.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:HashFunction.SearchDisplayWindow">
+<summary>
+SearchDisplayWindow
+</summary>
+</member>
+<member name="M:HashFunction.SearchDisplayWindow.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:HashFunction.SearchWindowByName">
+<summary>
+SearchWindowByName
+</summary>
+</member>
+<member name="M:HashFunction.SearchWindowByName.searchButton_Click(System.Object,System.Windows.RoutedEventArgs)">
+ <summary>
+ If user exist, display message 
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:HashFunction.SearchWindowByName.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:HashFunction.Application">
+<summary>
+Application
+</summary>
+</member>
+<member name="M:HashFunction.Application.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="M:HashFunction.Application.Main">
+<summary>
+Application Entry Point.
+</summary>
+</member>
+<member name="T:HashFunction.MainWindow">
+<summary>
+MainWindow
+</summary>
+</member>
+<member name="M:HashFunction.MainWindow.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+</members>
+</doc>

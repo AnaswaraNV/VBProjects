@@ -1,0 +1,147 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TicTacToe_new
+</name>
+</assembly>
+<members>
+<member name="T:TicTacToe_new.My.MyWpfExtension">
+ <summary>
+ Module used to define the properties that are available in the My Namespace for WPF
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:TicTacToe_new.My.MyWpfExtension.Application">
+ <summary>
+ Returns the application object for the running application
+ </summary>
+</member>
+<member name="P:TicTacToe_new.My.MyWpfExtension.Computer">
+ <summary>
+ Returns information about the host computer.
+ </summary>
+</member>
+<member name="P:TicTacToe_new.My.MyWpfExtension.User">
+ <summary>
+ Returns information for the current user.  If you wish to run the application with the current 
+ Windows user credentials, call My.User.InitializeWithWindowsUser().
+ </summary>
+</member>
+<member name="P:TicTacToe_new.My.MyWpfExtension.Log">
+ <summary>
+ Returns the application log. The listeners can be configured by the application's configuration file.
+ </summary>
+</member>
+<member name="P:TicTacToe_new.My.MyWpfExtension.Windows">
+ <summary>
+ Returns the collection of Windows defined in the project.
+ </summary>
+</member>
+<member name="T:TicTacToe_new.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:TicTacToe_new.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:TicTacToe_new.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:TicTacToe_new.PlayerWindow">
+<summary>
+PlayerWindow
+</summary>
+</member>
+<member name="M:TicTacToe_new.PlayerWindow.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:TicTacToe_new.TicTacWindow">
+<summary>
+TicTacWindow
+</summary>
+</member>
+<member name="M:TicTacToe_new.TicTacWindow.Button_Click(System.Windows.Controls.Button,System.Windows.RoutedEventArgs)">
+ <summary>
+ If a particular button is save the button name and change the content to X
+ as this is the user attempted turn
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:TicTacToe_new.TicTacWindow.getButtonNumber(System.String)">
+ <summary>
+ getting clicked button position
+ </summary>
+ <param name="buttonName"></param>
+ <returns></returns>
+</member>
+<member name="M:TicTacToe_new.TicTacWindow.processTicTac(System.Int32)">
+ <summary>
+ Processing tic tac toe tile values
+ </summary>
+</member>
+<member name="M:TicTacToe_new.TicTacWindow.sleeper">
+ <summary>
+ Pausing 3 seconds
+ </summary>
+</member>
+<member name="M:TicTacToe_new.TicTacWindow.getRandomNumber">
+ <summary>
+getting random number  between 0 - 8 
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:TicTacToe_new.TicTacWindow.isGameOver">
+ <summary>
+ win possibilites are : (horizontal) 012, 345, 678, (vertical) 036, 147, 258, (diagonal)048, 246 - X or O
+ if no win , need to check if 0 in any of the array , if yes game is not over 
+ if no win, no zero in array tie
+ </summary>
+</member>
+<member name="M:TicTacToe_new.TicTacWindow.isThereEmptyTiles">
+ <summary>
+ check if any of the tiles are empty , if yes game continues
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:TicTacToe_new.TicTacWindow.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:TicTacToe_new.Application">
+<summary>
+Application
+</summary>
+</member>
+<member name="M:TicTacToe_new.Application.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="M:TicTacToe_new.Application.Main">
+<summary>
+Application Entry Point.
+</summary>
+</member>
+<member name="T:TicTacToe_new.MainWindow">
+<summary>
+MainWindow
+</summary>
+</member>
+<member name="M:TicTacToe_new.MainWindow.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+</members>
+</doc>

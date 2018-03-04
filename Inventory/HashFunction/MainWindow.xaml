@@ -1,0 +1,64 @@
+﻿<Window x:Class="MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HashFunction"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <DockPanel HorizontalAlignment="Stretch" LastChildFill="True" VerticalAlignment="top">
+            <Menu x:Name="menu" DockPanel.Dock="Top" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                <MenuItem Header="_File">
+                    <MenuItem Header="New" Click="MenuItemNew_Click">
+                        <MenuItem.Icon>
+                            <Image Source="Resources\NewFileCollection_16x.png"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <Separator />
+                    <MenuItem Header="Read" Click="MenuItemRead_Click">
+                        <MenuItem.Icon>
+                            <Image Source="Resources\OpenFile_16x.png"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <Separator />
+                    <MenuItem Header="Edit" Click=" MenuItemUpdate_Click">
+                        <MenuItem.Icon>
+                            <Image Source="Resources\EditWindow_16x.png"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <Separator />
+                    <MenuItem Header="Delete" Click="MenuItemDelete_Click">
+                        <MenuItem.Icon>
+                            <Image Source="Resources\DeleteWatch_16x.png"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <Separator />
+                    <MenuItem Header="_Exit" >
+                        <MenuItem.Icon>
+                            <Image Source="Resources\CloseSolution_16x.png"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                </MenuItem>
+                <MenuItem Header="_Search" >
+                    <MenuItem Header="By UserName" Click="MenuItemByName_Click">
+                        <MenuItem.Icon>
+                            <Image Source="Resources\Search_16x.png"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem Header="By Email" Click="MenuItemByEmail_Click">
+                        <MenuItem.Icon>
+                            <Image Source="Resources\Search_16x.png"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                </MenuItem>
+            </Menu>
+        </DockPanel>
+        <TextBox x:Name="textBox" HorizontalAlignment="Stretch" TextWrapping="Wrap" VerticalAlignment="Stretch" AcceptsReturn="True" Margin="0,18,0,-18" Background="{DynamicResource {x:Static SystemColors.ControlBrushKey}}"/>
+        <Image x:Name="image" HorizontalAlignment="Left" Height="116" Margin="114,100,0,0" VerticalAlignment="Top" Width="316" Source="Resources/inventory.jpg">
+            <Image.OpacityMask>
+                <ImageBrush/>
+            </Image.OpacityMask>
+        </Image>
+    </Grid>
+</Window>
